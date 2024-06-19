@@ -1,0 +1,3 @@
+[submodule "NEAT-robotarm/neat-gym"]
+	path = NEAT-robotarm/neat-gym
+	url = https://github.com/AlyonaV/neat-gym
