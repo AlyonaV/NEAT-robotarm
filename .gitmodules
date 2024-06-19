@@ -1,3 +1,6 @@
 [submodule "NEAT-robotarm/neat-gym"]
 	path = NEAT-robotarm/neat-gym
 	url = https://github.com/AlyonaV/neat-gym
+[submodule "NEAT-robotarm/gym-robot-arm"]
+	path = NEAT-robotarm/gym-robot-arm
+	url = https://github.com/ekorudiawan/gym-robot-arm.git
